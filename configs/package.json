@@ -2,6 +2,9 @@
   "scripts": {
     "test": "jest-ci --coverage && eslint-ci *.js"
   },
+  "peerDependencies": {
+    "postcss": "postcss/postcss#ose"
+  },
   "devDependencies": {
     "@logux/eslint-config": "^40.0.3",
     "clean-publish": "^1.1.8",
