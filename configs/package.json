@@ -23,7 +23,7 @@
     "husky": "^4.2.5",
     "jest": "^26.4.2",
     "jest-ci": "^0.1.1",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^10.2.13",
     "postcss": "postcss/postcss#ose"
   },
   "eslintConfig": {
