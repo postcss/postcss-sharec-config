@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest-ci --coverage && eslint-ci *.js"
+    "test": "jest-ci --coverage && eslint-ci ."
   },
   "peerDependencies": {
     "postcss": "postcss/postcss#ose"
