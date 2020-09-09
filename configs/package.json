@@ -27,7 +27,7 @@
     "jest": "^26.4.2",
     "jest-ci": "^0.1.1",
     "lint-staged": "^10.3.0",
-    "postcss": "postcss/postcss#ose"
+    "postcss": "postcss/postcss"
   },
   "eslintConfig": {
     "extends": "@logux/eslint-config"
