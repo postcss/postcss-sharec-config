@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.5
+* Fix `postcss` version in `devDependencies`.
+
 ## 0.1.4
 * Use 8.0 release candidate.
 
