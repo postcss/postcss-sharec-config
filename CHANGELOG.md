@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.4
+* Use 8.0 release candidate.
+
 ## 0.1.3
 * Add `engines` with Node.js >= 10.
 
