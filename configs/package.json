@@ -6,7 +6,7 @@
     "test": "jest-ci --coverage && eslint-ci ."
   },
   "peerDependencies": {
-    "postcss": "^8.0.1"
+    "postcss": "^8.0.2"
   },
   "devDependencies": {
     "@logux/eslint-config": "^40.0.4",
@@ -27,7 +27,7 @@
     "jest": "^26.4.2",
     "jest-ci": "^0.1.1",
     "lint-staged": "^10.3.0",
-    "postcss": "^8.0.1"
+    "postcss": "^8.0.2"
   },
   "eslintConfig": {
     "extends": "@logux/eslint-config"
