@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.6
+* Use released `postcss` version.
+
 ## 0.1.5
 * Fix `postcss` version in `devDependencies`.
 

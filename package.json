@@ -1,6 +1,6 @@
 {
   "name": "postcss-sharec-config",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Best parctices and configs from PostCSS plugin",
   "keywords": [
     "postcss",
