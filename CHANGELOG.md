@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.7
+* Use PostCSS 8.1.
+
 ## 0.1.6
 * Use released `postcss` version.
 
