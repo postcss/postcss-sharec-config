@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.8
+* Add `.github/` to npm ignore.
+
 ## 0.1.7
 * Use PostCSS 8.1.
 
