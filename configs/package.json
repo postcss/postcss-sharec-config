@@ -6,14 +6,14 @@
     "test": "jest-ci --coverage && eslint-ci ."
   },
   "peerDependencies": {
-    "postcss": "^8.1.0"
+    "postcss": "^8.1.5"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^40.0.5",
+    "@logux/eslint-config": "^42.2.0",
     "clean-publish": "^1.1.8",
     "eslint": "^7.10.0",
     "eslint-ci": "^1.0.0",
-    "eslint-config-standard": "^14.1.1",
+    "eslint-config-standard": "^16.0.1",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jest": "^24.0.2",
     "eslint-plugin-node": "^11.1.0",
@@ -22,7 +22,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-unicorn": "^22.0.0",
+    "eslint-plugin-unicorn": "^23.0.0",
     "husky": "^4.3.0",
     "jest": "^26.4.2",
     "jest-ci": "^0.1.1",

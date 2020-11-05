@@ -1143,10 +1143,10 @@ set-value@^2.0.0, set-value@^2.0.1:
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
 
-sharec@^2.3.0:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.5.1.tgz#8233019410eddcf20b2810a3f5fa409579961cd2"
-  integrity sha512-WDdH9Qw8YaLXsiiK6yfL12Tp3NtKW7UqptVMY8EnX8XEnsfu9GrqZMY1U9pCrz50F3wJdijuXblhjklNnTvVzQ==
+sharec@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.7.1.tgz#54eacd95c63f1cf4eef87304fd53b40b77e618da"
+  integrity sha512-8nOE6hizKSBn0FVmJ8qT2aTGL+JwbOIASZ61SYmo8a7e3X9G1GxLNFopD8A1yIf4Cunz21kFvMDBMvAMJ/kkVw==
   dependencies:
     chalk "^2.4.2"
     detect-indent "^6.0.0"
