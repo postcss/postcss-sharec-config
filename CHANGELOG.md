@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.1
+* Add Node.js 10 to CI.
+
 ## 0.2
 * Use GitHub Actions instead of Travis CI.
 
