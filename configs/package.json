@@ -9,7 +9,7 @@
     "postcss": "^8.1.5"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^42.2.3",
+    "@logux/eslint-config": "^42.3.0",
     "clean-publish": "^1.1.8",
     "eslint": "^7.14.0",
     "eslint-ci": "^1.0.0",
