@@ -1,37 +1,37 @@
 # Change Log
 
 ## 0.2.1
-* Add Node.js 10 to CI.
+* Added Node.js 10 to CI.
 
 ## 0.2
-* Use GitHub Actions instead of Travis CI.
+* Moved to GitHub Actions instead of Travis CI.
 
 ## 0.1.9
-* Add Node.js 14 to Travis CI.
+* Added Node.js 14 to Travis CI.
 
 ## 0.1.8
-* Add `.github/` to npm ignore.
+* Added `.github/` to npm ignore.
 
 ## 0.1.7
-* Use PostCSS 8.1.
+* Moved to PostCSS 8.1.
 
 ## 0.1.6
-* Use released `postcss` version.
+* Used released `postcss` version.
 
 ## 0.1.5
-* Fix `postcss` version in `devDependencies`.
+* Fixed `postcss` version in `devDependencies`.
 
 ## 0.1.4
-* Use 8.0 release candidate.
+* Moved to 8.0 release candidate.
 
 ## 0.1.3
-* Add `engines` with Node.js >= 10.
+* Added `engines` with Node.js >= 10.
 
 ## 0.1.2
-* ESLint script to scan files inside folders.
+* Fixed ESLint script to scan files inside folders.
 
 ## 0.1.1
-* Add `peerDependencies` with `postcss`.
+* Added `peerDependencies` with `postcss`.
 
 ## 0.1
 * Initial release.
