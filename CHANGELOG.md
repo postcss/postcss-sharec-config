@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.2
+* Removed unnecessary dependencies.
+
 ## 0.2.1
 * Added Node.js 10 to CI.
 
