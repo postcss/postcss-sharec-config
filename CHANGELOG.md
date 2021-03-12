@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3
+* Moved from `husky` to `simple-git-hooks`.
+* Added `prettier`.
+
 ## 0.2.2
 * Removed unnecessary dependencies.
 
