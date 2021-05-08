@@ -19,6 +19,7 @@
   "files": [
     "configs/*",
     "!configs/node_modules",
+    "!configs/yarn.lock",
     "package.json",
     "README.md",
     "CHANGELOG.md",
