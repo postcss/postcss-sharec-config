@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.4.1
+* Reduced npm package size.
+
 ## 0.4
 * Removed Node.js 10 support.
 
