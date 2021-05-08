@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.4
+* Removed Node.js 10 support.
+
 ## 0.3
 * Moved from `husky` to `simple-git-hooks`.
 * Added `prettier`.
