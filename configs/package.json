@@ -53,5 +53,8 @@
       "prettier --write",
       "eslint --fix"
     ]
+  },
+  "clean-publish": {
+    "cleanDocs": true
   }
 }
