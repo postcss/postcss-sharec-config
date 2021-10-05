@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5
+* Reduced npm package size by cleaning docs.
+* Moved to Yarn cache from `actions/setup-node`.
+
 ## 0.4.1
 * Reduced npm package size.
 
