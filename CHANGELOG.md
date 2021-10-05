@@ -1,7 +1,7 @@
 # Change Log
 
 ## 0.5.1
-* Add workaround for `actions/setup-node` bug.
+* Added workaround for `actions/setup-node` bug.
 
 ## 0.5
 * Reduced npm package size by cleaning docs.
