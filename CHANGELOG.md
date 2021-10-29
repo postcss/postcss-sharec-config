@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.5.2
+* Added Node.js 17 to CI.
+
 ## 0.5.1
 * Added workaround for `actions/setup-node` bug.
 
