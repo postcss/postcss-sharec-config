@@ -8,7 +8,7 @@ yarn add --dev postcss-sharec-config
 ```
 
 [PostCSS]: https://postcss.org/
-[Sitnik]: https://github.com/au
+[Sitnik]: https://github.com/ai
 [Sharec]: https://lamartire.github.io/sharec/
 
 <a href="https://evilmartians.com/?utm_source=postcss-sharec-config">
